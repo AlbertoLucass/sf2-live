@@ -101,11 +101,9 @@ Permissões e acessos usados pelo app:
 
 ## Baixar APK pronto
 
-Se você não quiser instalar Android Studio, SDK, NDK ou qualquer dependência de build, baixe o APK diretamente pela página de **Releases** do GitHub:
+Se você não quiser instalar Android Studio, SDK, NDK ou qualquer dependência de build, basta acessar a **[página de Releases](https://github.com/AlbertoLucass/sf2-live/releases)** do projeto no GitHub.
 
-👉 **Releases → Latest release → APK**
-
-Quando o APK estiver publicado manualmente no repositório, basta clicar no arquivo `.apk`, baixar no celular e instalar.
+Abra a versão publicada mais recente, vá até a seção **Assets**, baixe o arquivo `.apk` e instale-o no seu dispositivo Android.
 
 ## Uso básico
 
