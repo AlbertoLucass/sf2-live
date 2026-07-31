@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.google.oboe:oboe:1.10.0] /home/oxeanbits/.gradle/caches/8.13/transforms/004d258255fe795595def01c20ca3190/transformed/oboe-1.10.0/AndroidManifest.xml:1:1-3:12
+	package
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:5:22-65
+uses-feature#android.hardware.usb.host
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:5-87
+	android:required
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:60-84
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:19-59
+uses-feature#android.software.midi
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:5-83
+	android:required
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:56-80
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:19-55
+uses-feature#android.hardware.audio.low_latency
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:5-96
+	android:required
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:69-93
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:19-68
+uses-feature#android.hardware.audio.pro
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:5-88
+	android:required
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:61-85
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:19-60
+application
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:12:5-29:19
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:12:5-29:19
+	android:extractNativeLibs
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:13:9-36
+	android:theme
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:17:9-45
+activity#com.sf2live.app.MainActivity
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:23:13-49
+	android:exported
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+MERGED from [com.google.oboe:oboe:1.10.0] /home/oxeanbits/.gradle/caches/8.13/transforms/004d258255fe795595def01c20ca3190/transformed/oboe-1.10.0/AndroidManifest.xml:2:2-70
+MERGED from [com.google.oboe:oboe:1.10.0] /home/oxeanbits/.gradle/caches/8.13/transforms/004d258255fe795595def01c20ca3190/transformed/oboe-1.10.0/AndroidManifest.xml:2:2-70
+	android:targetSdkVersion
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml

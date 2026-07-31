@@ -1,0 +1,8 @@
+com.sf2live.app:string/app_name = 0x7f030000
+com.sf2live.app:drawable/ic_launcher = 0x7f020000
+com.sf2live.app:color/primary = 0x7f010002
+com.sf2live.app:color/text_secondary = 0x7f010004
+com.sf2live.app:style/Theme.SF2Live = 0x7f040000
+com.sf2live.app:color/app_background = 0x7f010000
+com.sf2live.app:color/text_primary = 0x7f010003
+com.sf2live.app:color/panel_background = 0x7f010001

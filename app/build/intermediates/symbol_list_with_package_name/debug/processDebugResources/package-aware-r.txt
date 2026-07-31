@@ -1,0 +1,9 @@
+com.sf2live.app
+color app_background
+color panel_background
+color primary
+color text_primary
+color text_secondary
+drawable ic_launcher
+string app_name
+style Theme_SF2Live

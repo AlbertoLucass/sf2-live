@@ -1,0 +1,2 @@
+# Copie para local.properties e ajuste o caminho, se o Android Studio não criar automaticamente.
+sdk.dir=/caminho/para/Android/Sdk

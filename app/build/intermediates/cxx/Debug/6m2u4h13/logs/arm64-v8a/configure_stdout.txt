@@ -1,0 +1,9 @@
+-- The CXX compiler identification is Clang 18.0.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /home/oxeanbits/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/.cxx/Debug/6m2u4h13/arm64-v8a

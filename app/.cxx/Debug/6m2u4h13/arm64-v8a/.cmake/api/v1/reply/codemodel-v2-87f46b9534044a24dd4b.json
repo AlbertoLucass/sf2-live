@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sf2live",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sf2live::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sf2live-Debug-5208b6c2cf0ecf15c397.json",
+					"name" : "sf2live",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/.cxx/Debug/6m2u4h13/arm64-v8a",
+		"source" : "/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

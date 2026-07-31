@@ -1,0 +1,5 @@
+# ninja log v5
+1	1192	1785504544264797173	CMakeFiles/sf2live.dir/native-lib.cpp.o	60c89988a22ffbba
+2	1692	1785504544772768789	CMakeFiles/sf2live.dir/AudioEngine.cpp.o	cc53cadd96272a82
+2	2700	1785504545774712938	CMakeFiles/sf2live.dir/Sf2Synth.cpp.o	a4b126ded484cd32
+2700	2824	1785504545905705642	/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/build/intermediates/cxx/Debug/6m2u4h13/obj/arm64-v8a/libsf2live.so	c5bbde38df6e8279

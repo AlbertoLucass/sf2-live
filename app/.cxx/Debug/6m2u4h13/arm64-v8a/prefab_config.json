@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "prefabPath": "/home/oxeanbits/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/home/oxeanbits/.gradle/caches/8.13/transforms/004d258255fe795595def01c20ca3190/transformed/oboe-1.10.0/prefab"
+  ]
+}

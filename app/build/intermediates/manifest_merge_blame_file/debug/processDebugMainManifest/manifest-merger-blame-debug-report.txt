@@ -1,0 +1,80 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sf2live.app"
+4    android:versionCode="12"
+5    android:versionName="0.10.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="36" />
+10
+11    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+11-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:4:5-80
+11-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:4:22-77
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:5:5-68
+12-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:5:22-65
+13
+14    <uses-feature
+14-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:5-87
+15        android:name="android.hardware.usb.host"
+15-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:19-59
+16        android:required="false" />
+16-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:7:60-84
+17    <uses-feature
+17-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:5-83
+18        android:name="android.software.midi"
+18-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:19-55
+19        android:required="false" />
+19-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:8:56-80
+20    <uses-feature
+20-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:5-96
+21        android:name="android.hardware.audio.low_latency"
+21-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:19-68
+22        android:required="false" />
+22-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:9:69-93
+23    <uses-feature
+23-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:5-88
+24        android:name="android.hardware.audio.pro"
+24-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:19-60
+25        android:required="false" />
+25-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:10:61-85
+26
+27    <application
+27-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:12:5-29:19
+28        android:allowBackup="false"
+28-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:13:9-36
+29        android:debuggable="true"
+30        android:extractNativeLibs="false"
+31        android:icon="@drawable/ic_launcher"
+31-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:14:9-45
+32        android:label="@string/app_name"
+32-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:15:9-41
+33        android:supportsRtl="true"
+33-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:16:9-35
+34        android:theme="@style/Theme.SF2Live" >
+34-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:17:9-45
+35        <activity
+35-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:19:9-28:20
+36            android:name="com.sf2live.app.MainActivity"
+36-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:20:13-41
+37            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+37-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:21:13-83
+38            android:exported="true"
+38-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:22:13-36
+39            android:screenOrientation="portrait" >
+39-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:23:13-49
+40            <intent-filter>
+40-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:24:13-27:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:25:17-69
+41-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:25:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:26:17-77
+43-->/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/AndroidManifest.xml:26:27-74
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

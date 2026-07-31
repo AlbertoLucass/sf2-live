@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color app_background
+color panel_background
+color primary
+color text_primary
+color text_secondary
+drawable ic_launcher
+string app_name
+style Theme.SF2Live

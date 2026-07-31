@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sf2live.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "1,2,3,4,5",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "16,65,116,158,205",
+                        "endColumns": "48,50,41,46,48",
+                        "endOffsets": "60,111,153,200,249"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,104,155,197,244",
+                        "endColumns": "48,50,41,46,48",
+                        "endOffsets": "99,150,192,239,288"
+                    }
+                },
+                {
+                    "source": "/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "575"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "339",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "898"
+                    }
+                },
+                {
+                    "source": "/home/oxeanbits/Desktop/minhas_coisas/app de musica/SF2Live-v0.10.0-github-ready/SF2Live-v0.10.0/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "293",
+                        "endColumns": "45",
+                        "endOffsets": "334"
+                    }
+                }
+            ]
+        }
+    ]
+}

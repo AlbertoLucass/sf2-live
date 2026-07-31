@@ -1,0 +1,1 @@
+-keep class com.sf2live.app.NativeSynth { *; }
